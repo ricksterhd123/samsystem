@@ -1,0 +1,15 @@
+<meta>
+    <info name="SAM_System" author="Exile/Fantome" version="0.2.0" type="script" />
+
+    <script src="config.lua" type="shared" />
+    <script src="matrix.lua" type="client" />
+    <script src="math.lua" type="client" />
+
+    <script src="missile_s.lua" type="server" />
+    <script src="missile_c.lua" type="client" />
+    <script src="samsystem.lua" type="client" />
+    <script src="client.lua" type="client" />
+
+    <file src="swatvan.dff" type="client" />
+    <file src="swatvan.txd" type="client" />
+</meta>

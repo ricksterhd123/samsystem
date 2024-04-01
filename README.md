@@ -1,5 +1,5 @@
 # samsystem
-## GTA V HVY APC S.A.M. mod
+## GTA V HVY APC S.A.M. MTA:SA mod
 
 ## Features
 - GTA V HVY APC SAM turret replacement mod for S.W.A.T. (ID 601)
